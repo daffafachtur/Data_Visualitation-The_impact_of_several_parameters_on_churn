@@ -1,7 +1,7 @@
 # Data_Visualitation-The_impact_of_several_parameters_on_churn
 
 
-#### The impact of Churn Rate by Monthly Charges and Tenure Segmentation where the customer does not have a Partner and Dependents, but chooses a long-term contract (One year and Two years)
+## The impact of Churn Rate by Monthly Charges and Tenure Segmentation where the customer does not have a Partner and Dependents, but chooses a long-term contract (One year and Two years)
 
 Money Charges Group :
 
